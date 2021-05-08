@@ -2,10 +2,10 @@
 name: MasterGossip's Blog
 email: daxuanguoshi@gmail.com
 author: Gossip Wang
-url: ''
-resume_site: http://www.hifreud.com/Resume.io/
+url: https://wanggossip.github.io/
+resume_site: https://wanggossip.github.io/
 github: https://github.com/WangGossip/
-baseurl: ''
+baseurl: 
 description: 做好喜欢的事情
 meta_description: MasterGossip;个人博客;人要持之以恒
 motto: 好好学习，天天向上
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+github_username: WangGossip
 
 # Build settings
 markdown: kramdown
