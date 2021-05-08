@@ -1,15 +1,15 @@
 # Site settings
-name: MasterGossipBlog
+name: MasterGossip's Blog
 email: daxuanguoshi@gmail.com
 author: Gossip Wang
 url: ''
 resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/WangGossip/
 baseurl: ''
-description: Actually, less is more!
-meta_description: 
-motto: It's our wits that make us men.
-banner: 
+description: 做好喜欢的事情
+meta_description: MasterGossip;个人博客;人要持之以恒
+motto: 好好学习，天天向上
+banner: 干！
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -21,6 +21,6 @@ github_username: luoyan35714
 
 # Build settings
 markdown: kramdown
-
+# 这两个要自己申请
 baidu_analysis: 2a1f62e7cc45033e3da6cce061d75f12
 revolvermaps: 5mozmyb225x
