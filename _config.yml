@@ -9,7 +9,7 @@ baseurl: ''
 description: 做好喜欢的事情
 meta_description: MasterGossip;个人博客;人要持之以恒
 motto: 好好学习，天天向上
-banner: 干！
+banner: 好好干！
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
