@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "code-server使用教程"
-date:  2021-05-08 20:33:01 +0800
+date:  2021-05-12 00:16:01 +0800
 categories: document
 tag: 教程
 ---
