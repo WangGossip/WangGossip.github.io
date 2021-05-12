@@ -46,7 +46,7 @@ tag: 教程
      [2021-05-11T15:10:10.883Z] error Please specify at least one file or folder
      ```
 
-   - 改为使用`bin`文件夹中的程序，**注意：这里不能使用vscode的remote插件操作，否则会报错，要使用其他的SSH工具**
+   - 改为使用`bin`文件夹中的程序**~~注意：这里不能使用vscode的remote插件操作，否则会报错，要使用其他的SSH工具~~（现在不冲突）**
 
    - 需要管理员权限，运行程序
 
@@ -54,8 +54,14 @@ tag: 教程
 
 3. 可修改配置配置文件，位置在`~./config/code-server.yaml`
 
+   如果想在ipad等移动端使用，绑定的ip要为`bind-addr: 0.0.0.0:<port>`
+
 ## 效果
 
 网页端效果如下
 
 ![image-20210512000744537](https://i.loli.net/2021/05/12/fdehk4yYajbRscA.png)
+
+ipad端效果如下，App名称为**Servediter**
+
+![image-20210512200511869](https://i.loli.net/2021/05/12/YODUBJysq5Qdf1N.png)
